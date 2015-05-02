@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
 import javax.persistence.Temporal;
-
+ //  ESTO ES UN CAMBIO DOS PRUEBA
 
 /*
  * To change this license header, choose License Headers in Project Properties.
