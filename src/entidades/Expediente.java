@@ -22,7 +22,7 @@ import javax.persistence.Temporal;
  *
  * @author Michael
  */
-
+// ESTO ES UN CAMBIO PRUEBA
 @Entity
 public class Expediente implements Serializable {
     private static final long serialVersionUID = 1L;
